@@ -1,0 +1,5 @@
+cleanstore
+websocket-upload-go
+store/
+.idea/
+tmp
